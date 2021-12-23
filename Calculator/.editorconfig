@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# CS0414: The field 'Form1.result' is assigned but its value is never used
+dotnet_diagnostic.CS0414.severity = none
+
+# CS0169: The field 'Form1.operation' is never used
+dotnet_diagnostic.CS0169.severity = none
